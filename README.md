@@ -2,8 +2,8 @@
 
 ## [Lista 1](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_1)
 
-:snake: :coffee: :question: 
 | **2189** | **2295** | **2374**| **2437** | **2456** | **2787** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | Quermesse | Frota de Táxi | Pneu | Distância de Manhattan | Cartas | Xadrez |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
