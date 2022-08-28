@@ -3,35 +3,40 @@
 ## [Lista 1](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_1)
 
 :snake: :coffee: :question: 
-| **2189** - Quermesse | **2295** - Frota de Táxi | **2374** - Pneu | **2437** - Distância de Manhattan | **2456** - Cartas | **2787** - Xadrez |
+| **2189** | **2295** | **2374**| **2437** | **2456** | **2787** |
+| Quermesse | Frota de Táxi | Pneu | Distância de Manhattan | Cartas | Xadrez |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
 |:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|
 
 ## [Lista 2](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_2)
 
-| **1397** - Jogo do Maior | **1933** - Tri-du | **2304** - Banco Imobiliário | **2342** - Overflow | **2344** - Notas da Prova | **2373** - Garçom |
+| **1397** | **1933** | **2304** | **2342** | **2344** | **2373** |
+| Jogo do Maior | Tri-du | Banco Imobiliário | Overflow | Notas da Prova | Garçom |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
 |:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|
 
 ## [Lista 3](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_3)
 
-| **2233** - Etiquetas Coloridas | **2321** - Detectando Colisões | **2366** - Maratona | **2420** - Guerra por Território | **2449** - Fechadura | **2880** - Enigma |
+| **2233** | **2321** | **2366** | **2420** | **2449** | **2880** |
+| Etiquetas Coloridas | Detectando Colisões | Maratona | Guerra por Território | Fechadura | Enigma |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
 |:question:|:question:|:question:|:question:|:question:|:question:|
 
 ## [Lista 4](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_4)
 
-| **1241** - Encaixa ou Não II | **1574** - Instruções do Robô | **2242** - Huaauhahhuahau | **2293** - Campo de Minhocas | **2316** - Autorama | **2462** - Voo |
+| **1241** | **1574** | **2242** | **2293** | **2316** | **2462** |
+| Encaixa ou Não II | Instruções do Robô | Huaauhahhuahau | Campo de Minhocas| Autorama| Voo|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
 |:question:|:question:|:question:|:question:|:question:|:question:|
 
 ## [Lista 5](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_5)
 
-| **2238** - Divisores | **2309** - Truco | **2464** - Decifra | **2499** - Triângulo Interno | **2674** - Super Primos: Ativar! | **2834** - Fuga |
+| **2238** | **2309** | **2464** | **2499** | **2674** | **2834** |
+| Divisores | Truco | Decifra | Triângulo Interno | Super Primos: Ativar! | Fuga|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |:snake:|:snake:|:snake:|:question:|:question:|:question:|
 |:question:|:question:|:question:|:question:|:question:|:question:|
