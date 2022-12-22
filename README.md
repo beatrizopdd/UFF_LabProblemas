@@ -10,12 +10,12 @@ C | :croissant: |
 
 **Código** | **Título** | **Solução** |
 --- | --- | --- |
-b | a | :snake: :coffee: :croissant: |
-b | a | :snake: :coffee: :croissant: |
-b | a | :snake: :coffee: :croissant: |
-b | a | :snake: :coffee: :croissant: |
-b | a | :snake: :coffee: :croissant: |
-b | a | :snake: :coffee: :croissant: |
+1002 | Área do Círculo | :snake: |
+1005 | Média 1 | :snake: |
+1015 | Distância Entre Dois Pontos | :snake: |
+1016 | Distância | :snake: |
+1020 | Idade em Dias | :snake: |
+1036 | Fórmula de Bhaskara | :snake: |
 
 
 ### [Lista 1](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_1)
