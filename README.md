@@ -1,6 +1,15 @@
-# INDEX
+## [Lista 0](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_0)
 
-## [Lista 1](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_1)
+**Código** | **Nome** | **Linguagem** |
+--- | --- | --- |
+2189 | Quermesse | :snake: :coffee: |
+2295 | Frota de Táxi | :snake: :coffee: |
+2374 | Pneu | :snake: :coffee: |
+2437 | Distância de Manhattan | :snake: :coffee: |
+2456 | Cartas | :coffee: |
+2787 | Xadrez | :snake: |
+
+## [Lista 1](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_1)
 
 | **2189** | **2295** | **2374**| **2437** | **2456** | **2787** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -8,7 +17,7 @@
 |:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
 |:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|
 
-## [Lista 2](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_2)
+## [Lista 2](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_2)
 
 | **1397** | **1933** | **2304** | **2342** | **2344** | **2373** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -16,7 +25,7 @@
 |:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
 |:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|
 
-## [Lista 3](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_3)
+## [Lista 3](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_3)
 
 | **2233** | **2321** | **2366** | **2420** | **2449** | **2880** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -24,7 +33,7 @@
 |:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
 |:question:|:question:|:question:|:question:|:question:|:question:|
 
-## [Lista 4](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_4)
+## [Lista 4](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_4)
 
 | **1241** | **1574** | **2242** | **2293** | **2316** | **2462** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -32,7 +41,7 @@
 |:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
 |:question:|:question:|:question:|:question:|:question:|:question:|
 
-## [Lista 5](https://github.com/beatrizopdd/beecrowd_Listas/tree/master/lista_5)
+## [Lista 5](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_5)
 
 | **2238** | **2309** | **2464** | **2499** | **2674** | **2834** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
