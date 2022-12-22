@@ -1,50 +1,79 @@
-## [Lista 0](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_0)
+## Legenda
 
-**Código** | **Nome** | **Linguagem** |
+**Linguagem** | **Símbolo** |
+--- | --- |
+Python | :snake: |
+Java | :coffee: |
+C | :croissant: |
+
+### [Lista 0](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_0)
+
+**Código** | **Título** | **Solução** |
+--- | --- | --- |
+ |  | :snake: :coffee: :croissant: |
+ |  | :snake: :coffee: :croissant: |
+ |  | :snake: :coffee: :croissant: |
+ |  | :snake: :coffee: :croissant: |
+ |  | :snake: :coffee: :croissant: |
+ |  | :snake: :coffee: :croissant: |
+
+
+### [Lista 1](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_1)
+
+**Código** | **Título** | **Solução** |
 --- | --- | --- |
 2189 | Quermesse | :snake: :coffee: |
 2295 | Frota de Táxi | :snake: :coffee: |
 2374 | Pneu | :snake: :coffee: |
 2437 | Distância de Manhattan | :snake: :coffee: |
-2456 | Cartas | :coffee: |
-2787 | Xadrez | :snake: |
+2456 | Cartas | :snake: :coffee: |
+2787 | Xadrez | :snake: :coffee: |
 
-## [Lista 1](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_1)
 
-| **2189** | **2295** | **2374**| **2437** | **2456** | **2787** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Quermesse | Frota de Táxi | Pneu | Distância de Manhattan | Cartas | Xadrez |
-|:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
-|:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|
+### [Lista 2](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_2)
 
-## [Lista 2](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_2)
+**Código** | **Título** | **Solução** |
+--- | --- | --- |
+1397 | Jogo do Maior | :snake: :coffee: |
+1933 | Tri-du | :snake: :coffee: |
+2304 | Banco Imobiliário | :snake: :coffee: |
+2342 | Overflow | :snake: :coffee: |
+2344 | Notas da Prova | :snake: :coffee: |
+2373 | Garçom | :snake: :coffee:  |
 
-| **1397** | **1933** | **2304** | **2342** | **2344** | **2373** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Jogo do Maior | Tri-du | Banco Imobiliário | Overflow | Notas da Prova | Garçom |
-|:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
-|:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|:coffee:|
 
-## [Lista 3](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_3)
+### [Lista 3](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_3)
 
-| **2233** | **2321** | **2366** | **2420** | **2449** | **2880** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Etiquetas Coloridas | Detectando Colisões | Maratona | Guerra por Território | Fechadura | Enigma |
-|:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
-|:question:|:question:|:question:|:question:|:question:|:question:|
+**Código** | **Título** | **Solução** |
+--- | --- | --- |
+2233 | Etiquetas Coloridas | :snake: |
+2321 | Detectando Colisões | :snake: |
+2366 | Maratona | :snake: |
+2420 | Guerra por Território | :snake: |
+2449 | Fechadura | :snake: |
+2880 | Enigma | :snake: |
 
-## [Lista 4](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_4)
 
-| **1241** | **1574** | **2242** | **2293** | **2316** | **2462** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Encaixa ou Não II | Instruções do Robô | Huaauhahhuahau | Campo de Minhocas| Autorama| Voo|
-|:snake:|:snake:|:snake:|:snake:|:snake:|:snake:|
-|:question:|:question:|:question:|:question:|:question:|:question:|
+### [Lista 4](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_4)
 
-## [Lista 5](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_5)
+**Código** | **Título** | **Solução** |
+--- | --- | --- |
+1241 | Encaixa ou Não II | :snake: |
+1574 | Instruções do Robô | :snake: |
+2242 | Huaauhahhuahau | :snake: |
+2293 | Campo de Minhocas | :snake: |
+2316 | Autorama | :snake: |
+2462 | Voo | :snake: |
 
-| **2238** | **2309** | **2464** | **2499** | **2674** | **2834** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Divisores | Truco | Decifra | Triângulo Interno | Super Primos: Ativar! | Fuga|
-|:snake:|:snake:|:snake:|:question:|:question:|:question:|
-|:question:|:question:|:question:|:question:|:question:|:question:|
+
+### [Lista 5](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_5)
+
+**Código** | **Título** | **Solução** |
+--- | --- | --- |
+2238 | Divisores | :snake: |
+2309 | Truco | :snake: |
+2464 | Decifra | :snake: |
+2499 | Triângulo Interno | :question: |
+2674 | Super Primos: Ativar! | :question: |
+2834 | Fuga | :question: |
+
