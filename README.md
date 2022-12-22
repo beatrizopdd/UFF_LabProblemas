@@ -10,12 +10,12 @@ C | :croissant: |
 
 **Código** | **Título** | **Solução** |
 --- | --- | --- |
- |  | :snake: :coffee: :croissant: |
- |  | :snake: :coffee: :croissant: |
- |  | :snake: :coffee: :croissant: |
- |  | :snake: :coffee: :croissant: |
- |  | :snake: :coffee: :croissant: |
- |  | :snake: :coffee: :croissant: |
+ | a | :snake: :coffee: :croissant: |
+ | a | :snake: :coffee: :croissant: |
+ | a | :snake: :coffee: :croissant: |
+ | a | :snake: :coffee: :croissant: |
+ | a | :snake: :coffee: :croissant: |
+ | a | :snake: :coffee: :croissant: |
 
 
 ### [Lista 1](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_1)
