@@ -1,7 +1,9 @@
 ## Legenda
 
-:snake: Python ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36)
-:croissant: C ![progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36)
+**Símbolo** | **Linguagem** | **Progresso** |
+--- | --- | --- |
+:snake: | Python | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
+:croissant: | C | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36) |
 
 ### [Lista 0](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_0)
 
