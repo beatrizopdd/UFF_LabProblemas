@@ -1,10 +1,7 @@
 ## Legenda
 
-**Linguagem** | **Símbolo** |
---- | --- |
-Python | :snake: |
-Java | :coffee: |
-C | :croissant: |
+:snake: Python [progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36)
+:croissant: C [progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36)
 
 ### [Lista 0](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_0)
 
@@ -22,24 +19,24 @@ C | :croissant: |
 
 **Código** | **Título** | **Solução** |
 --- | --- | --- |
-2189 | Quermesse | :snake: :coffee: |
-2295 | Frota de Táxi | :snake: :coffee: |
-2374 | Pneu | :snake: :coffee: |
-2437 | Distância de Manhattan | :snake: :coffee: |
-2456 | Cartas | :snake: :coffee: |
-2787 | Xadrez | :snake: :coffee: |
+2189 | Quermesse | :snake: |
+2295 | Frota de Táxi | :snake: |
+2374 | Pneu | :snake: |
+2437 | Distância de Manhattan | :snake: |
+2456 | Cartas | :snake: |
+2787 | Xadrez | :snake: |
 
 
 ### [Lista 2](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_2)
 
 **Código** | **Título** | **Solução** |
 --- | --- | --- |
-1397 | Jogo do Maior | :snake: :coffee: |
-1933 | Tri-du | :snake: :coffee: |
-2304 | Banco Imobiliário | :snake: :coffee: |
-2342 | Overflow | :snake: :coffee: |
-2344 | Notas da Prova | :snake: :coffee: |
-2373 | Garçom | :snake: :coffee:  |
+1397 | Jogo do Maior | :snake: |
+1933 | Tri-du | :snake: |
+2304 | Banco Imobiliário | :snake: |
+2342 | Overflow | :snake: |
+2344 | Notas da Prova | :snake: |
+2373 | Garçom | :snake: |
 
 
 ### [Lista 3](https://github.com/beatrizopdd/UFF_ListasBeecrowd/tree/master/lista_3)
