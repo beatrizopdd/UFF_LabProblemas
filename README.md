@@ -1,12 +1,12 @@
 
 **Lista** | **Código** | **Título** | **Solução** |
 --- | --- | --- | --- |
-L0 | 1002 | Área do Círculo | :snake: |
-L0 | 1005 | Média 1 | :snake: |
-L0 | 1015 | Distância Entre Dois Pontos | :snake: |
-L0 | 1016 | Distância | :snake: |
-L0 | 1020 | Idade em Dias | :snake: |
-L0 | 1036 | Fórmula de Bhaskara | :snake: |
+L0 | 1002 | Área do Círculo | :snake: :gem:|
+L0 | 1005 | Média 1 | :snake: :gem:|
+L0 | 1015 | Distância Entre Dois Pontos | :snake: :gem: |
+L0 | 1016 | Distância | :snake: :gem: |
+L0 | 1020 | Idade em Dias | :snake: :gem: |
+L0 | 1036 | Fórmula de Bhaskara | :snake: :gem: |
 L1 | 2189 | Quermesse | :snake: |
 L1 | 2295 | Frota de Táxi | :snake: |
 L1 | 2374 | Pneu | :snake: |
