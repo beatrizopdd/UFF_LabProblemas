@@ -1,10 +1,6 @@
---- | --- | --- |
-:snake: | Python | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
-:gem: | Ruby | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36) |
-
 
 **Lista** | **Código** | **Título** | **Solução** |
---- | --- | --- |
+--- | --- | --- | --- |
 L0 | 1002 | Área do Círculo | :snake: |
 L0 | 1005 | Média 1 | :snake: |
 L0 | 1015 | Distância Entre Dois Pontos | :snake: |
@@ -41,4 +37,11 @@ L5 | 2464 | Decifra | :snake: |
 L5 | 2499 | Triângulo Interno | :question: |
 L5 | 2674 | Super Primos: Ativar! | :question: |
 L5 | 2834 | Fuga | :question: |
+
+### Legenda
+**Símbolo** | **Linguagem** | **Progresso** |
+--- | --- | --- |
+:snake: | Python | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
+:gem: | Ruby | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36) |
+
 
