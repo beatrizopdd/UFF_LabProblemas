@@ -45,4 +45,4 @@ L5 | 2834 | Fuga | :question: |
 **Símbolo** | **Linguagem** | **Progresso** |
 --- | --- | --- |
 :snake: | Python | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
-:gem: | Ruby | ![progress](https://progress-bar.dev/6/?scale=36&width=200&suffix=/36) |
+:gem: | Ruby | ![progress](https://progress-bar.dev/12/?scale=36&width=200&suffix=/36) |
