@@ -1,4 +1,6 @@
 
+# LISTAS  
+
 **Lista** | **Código** | **Título** | **Solução** |
 --- | --- | --- | --- |
 L0 | 1002 | Área do Círculo | :snake: :gem:|
@@ -7,12 +9,12 @@ L0 | 1015 | Distância Entre Dois Pontos | :snake: :gem: |
 L0 | 1016 | Distância | :snake: :gem: |
 L0 | 1020 | Idade em Dias | :snake: :gem: |
 L0 | 1036 | Fórmula de Bhaskara | :snake: :gem: |
-L1 | 2189 | Quermesse | :snake: |
-L1 | 2295 | Frota de Táxi | :snake: |
-L1 | 2374 | Pneu | :snake: |
-L1 | 2437 | Distância de Manhattan | :snake: |
-L1 | 2456 | Cartas | :snake: |
-L1 | 2787 | Xadrez | :snake: |
+L1 | 2189 | Quermesse | :snake: :gem:|
+L1 | 2295 | Frota de Táxi | :snake: :gem:|
+L1 | 2374 | Pneu | :snake: :gem:|
+L1 | 2437 | Distância de Manhattan | :snake: :gem:|
+L1 | 2456 | Cartas | :snake: :gem:|
+L1 | 2787 | Xadrez | :snake: :gem:|
 L2 | 1397 | Jogo do Maior | :snake: |
 L2 | 1933 | Tri-du | :snake: |
 L2 | 2304 | Banco Imobiliário | :snake: |
@@ -38,10 +40,9 @@ L5 | 2499 | Triângulo Interno | :question: |
 L5 | 2674 | Super Primos: Ativar! | :question: |
 L5 | 2834 | Fuga | :question: |
 
-### Legenda
+## Legenda  
+
 **Símbolo** | **Linguagem** | **Progresso** |
 --- | --- | --- |
 :snake: | Python | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
 :gem: | Ruby | ![progress](https://progress-bar.dev/6/?scale=36&width=200&suffix=/36) |
-
-
