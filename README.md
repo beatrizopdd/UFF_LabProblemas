@@ -15,12 +15,12 @@ L1 | 2374 | Pneu | :snake: :gem:|
 L1 | 2437 | Distância de Manhattan | :snake: :gem:|
 L1 | 2456 | Cartas | :snake: :gem:|
 L1 | 2787 | Xadrez | :snake: :gem:|
-L2 | 1397 | Jogo do Maior | :snake: |
-L2 | 1933 | Tri-du | :snake: |
-L2 | 2304 | Banco Imobiliário | :snake: |
-L2 | 2342 | Overflow | :snake: |
-L2 | 2344 | Notas da Prova | :snake: |
-L2 | 2373 | Garçom | :snake: |
+L2 | 1397 | Jogo do Maior | :snake: :gem:|
+L2 | 1933 | Tri-du | :snake: :gem:|
+L2 | 2304 | Banco Imobiliário | :snake: :gem:|
+L2 | 2342 | Overflow | :snake: :gem:|
+L2 | 2344 | Notas da Prova | :snake: :gem:|
+L2 | 2373 | Garçom | :snake: :gem:|
 L3 | 2233 | Etiquetas Coloridas | :snake: |
 L3 | 2321 | Detectando Colisões | :snake: |
 L3 | 2366 | Maratona | :snake: |
@@ -45,4 +45,4 @@ L5 | 2834 | Fuga | :question: |
 **Símbolo** | **Linguagem** | **Progresso** |
 --- | --- | --- |
 :snake: | Python | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
-:gem: | Ruby | ![progress](https://progress-bar.dev/12/?scale=36&width=200&suffix=/36) |
+:gem: | Ruby | ![progress](https://progress-bar.dev/18/?scale=36&width=200&suffix=/36) |
