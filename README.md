@@ -22,11 +22,11 @@ L2 | 2342 | Overflow | :snake: :gem:|
 L2 | 2344 | Notas da Prova | :snake: :gem:|
 L2 | 2373 | Garçom | :snake: :gem:|
 L3 | 2233 | Etiquetas Coloridas | :snake: |
-L3 | 2321 | Detectando Colisões | :snake: |
-L3 | 2366 | Maratona | :snake: |
-L3 | 2420 | Guerra por Território | :snake: |
-L3 | 2449 | Fechadura | :snake: |
-L3 | 2880 | Enigma | :snake: |
+L3 | 2321 | Detectando Colisões | :snake: :gem:|
+L3 | 2366 | Maratona | :snake:|
+L3 | 2420 | Guerra por Território | :snake: :gem:|
+L3 | 2449 | Fechadura | :snake: :gem:|
+L3 | 2880 | Enigma | :snake: :gem:|
 L4 | 1241 | Encaixa ou Não II | :snake: |
 L4 | 1574 | Instruções do Robô | :snake: |
 L4 | 2242 | Huaauhahhuahau | :snake: |
@@ -45,4 +45,5 @@ L5 | 2834 | Fuga | :question: |
 **Símbolo** | **Linguagem** | **Progresso** |
 --- | --- | --- |
 :snake: | Python | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
-:gem: | Ruby | ![progress](https://progress-bar.dev/18/?scale=36&width=200&suffix=/36) |
+:gem: | Ruby | ![progress](https://progress-bar.dev/22/?scale=36&width=200&suffix=/36) |
+:croissant: | C | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36) |
