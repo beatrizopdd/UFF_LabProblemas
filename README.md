@@ -1,5 +1,5 @@
 
-# LISTAS  
+## LISTAS  
 
 **Lista** | **Código** | **Título** | **Solução** |
 --- | --- | --- | --- |
@@ -21,24 +21,40 @@ L2 | 2304 | Banco Imobiliário | :snake: :gem:|
 L2 | 2342 | Overflow | :snake: :gem:|
 L2 | 2344 | Notas da Prova | :snake: :gem:|
 L2 | 2373 | Garçom | :snake: :gem:|
+
 L3 | 2233 | Etiquetas Coloridas | :snake: |
+
 L3 | 2321 | Detectando Colisões | :snake: :gem:|
+
 L3 | 2366 | Maratona | :snake:|
+
 L3 | 2420 | Guerra por Território | :snake: :gem:|
 L3 | 2449 | Fechadura | :snake: :gem:|
 L3 | 2880 | Enigma | :snake: :gem:|
-L4 | 1241 | Encaixa ou Não II | :snake: |
+L4 | 1241 | Encaixa ou Não II | :snake: :gem:|
+
 L4 | 1574 | Instruções do Robô | :snake: |
 L4 | 2242 | Huaauhahhuahau | :snake: |
 L4 | 2293 | Campo de Minhocas | :snake: |
 L4 | 2316 | Autorama | :snake: |
 L4 | 2462 | Voo | :snake: |
+
 L5 | 2238 | Divisores | :snake: |
 L5 | 2309 | Truco | :snake: |
 L5 | 2464 | Decifra | :snake: |
+
 L5 | 2499 | Triângulo Interno | :question: |
-L5 | 2674 | Super Primos: Ativar! | :question: |
+
+L5 | 2674 | Super Primos: Ativar! | :snake: |
+
 L5 | 2834 | Fuga | :question: |
+
+## Extras
+
+**Código** | **Título** | **Solução** |
+
+2153 | Sanduicheiche | :snake: |
+
 
 ## Legenda  
 

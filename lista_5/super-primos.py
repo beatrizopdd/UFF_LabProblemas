@@ -1,45 +1,35 @@
-def super_primo(num, status):
-
-        
-        
-
-        
-
-        else:
-                return status
-        
-        
-def primo(num):
-
-        
-	
-
 while True:
-
-        try:
-                status = "Nada"
-                primos = ["1", "2", "3", "5", "7"]
-                digitos_primos = 0
+    try:
+        numero = int(input()) # Recebe o número e já considera como não primo
+        status = "Nada" 
+        
+        primoBase = (numero == 2) or (numero == 3) or (numero == 5) or (numero == 7) # Já trata os casos dos primos menores que 10
+        if (primoBase == True):
+            status = "Super"
+        
+        elif (numero >= 11): # Todos os números menores que 11 que não forem "primosBases" não são primos
+        
+            status = "Primo"
+            
+            for i in range(2, int(numero**0.5)+1): # Todo número é divisível por 1, vai de 2 até a raiz quadrada + 1
+                if (numero % i == 0): # Para no momento que descobrir um divisor
+                    status = "Nada"
+                    break
+                    
+            if (status == "Primo"):
+            
+                status = "Super"
+                numeroString = str(numero)
+                    
+                for i in numeroString:
                 
-                numero = int(input())
-
-                if (numero >= 2):
-                        for n in range(2, int(num ** 0.5)):
-						    if (num % n == 0):
-						            status = "Nada"
-						            break
-
-						status = "Primo"
-
-                if (status == "Primo"):
-                		for n in str(numero):
-						    if (n in primos):
-						            digitos_primos += 1
-
-						if (digitos_primos == len(str(numero))):
-								status = "Super"
-
-                print(status)
-
-        except EOFError:
-                break
+                    digitoPrimo = (i == "2") or (i == "3") or (i == "5") or (i == "7") # Verifica se o dígito é primo
+                    
+                    if (digitoPrimo == False): # Para no primeiro dígito que não for primo
+                        status = "Primo"
+                        break
+        
+        print(status)
+          
+    except EOFError:
+        break
