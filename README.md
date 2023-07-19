@@ -42,7 +42,7 @@ L3 | 2880 | Enigma | :snake: :gem:|
 
 **Linguagem** | **Progresso** |
 --- | --- |
-Python (:snake:) | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
+Python (:snake:) | ![progress](https://progress-bar.dev/34/?scale=36&width=200&suffix=/36) |
 Ruby (:gem:) | ![progress](https://progress-bar.dev/22/?scale=36&width=200&suffix=/36) |
 C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36) |
 
@@ -54,8 +54,10 @@ C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suf
 1004 | Produto Simples | :snake: |
 1007 | Diferença | :snake: |
 1019 | Conversão de Tempo | :snake: |
+1103 | Alarme Despertador | :snake: |
 1120 | Revisão de Contrato | :snake: |
 1144 | Sequência Lógica | :snake: |
+1940 | Jogo da Estratégia | :snake: |
 1943 | Top N | :snake: |
 2006 | Identificando o Chá | :snake: |
 2153 | Sanduicheiche | :snake: |
@@ -68,11 +70,16 @@ C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suf
 2413 | Busca na Internet | :snake: |
 2415 | Consecutivos | :snake: |
 2434 | Saldo do Vovô | :snake: |
+2443 | Soma de Frações | :snake: |
+2756 | Saída 10 | :snake: |
 2936 | Quanta Mandioca? | :snake: |
 3048 | Sequência Secreta | :snake: |
 3055 | Nota Esquecida | :snake: |
 3089 | Presentes de Natal | :snake: |
 
-
- |  | :snake: |
+2188 | Macaco-prego | :question: |
+2231 | Temperatura Lunar | :question: |
+2305 | Colheita de Caju | :question: |
+2391 | Progressões Aritméticas | :question: |
+2736 | Números de Avalon | :question: |
 
