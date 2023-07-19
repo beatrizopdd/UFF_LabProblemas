@@ -40,11 +40,11 @@ L1 | 2787 | Xadrez | :snake: :gem:|
 L5 | 2834 | Fuga | :question: |
 L3 | 2880 | Enigma | :snake: :gem:|
 
-**Símbolo** | **Linguagem** | **Progresso** |
---- | --- | --- |
-:snake: | Python | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
-:gem: | Ruby | ![progress](https://progress-bar.dev/22/?scale=36&width=200&suffix=/36) |
-:croissant: | C | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36) |
+**Linguagem** | **Progresso** |
+--- | --- |
+Python (:snake:) | ![progress](https://progress-bar.dev/33/?scale=36&width=200&suffix=/36) |
+Ruby (:gem:) | ![progress](https://progress-bar.dev/22/?scale=36&width=200&suffix=/36) |
+C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36) |
 
 ## Extras
 
