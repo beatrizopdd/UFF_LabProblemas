@@ -77,7 +77,6 @@ C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suf
 3048 | Sequência Secreta | :snake: |
 3055 | Nota Esquecida | :snake: |
 3089 | Presentes de Natal | :snake: |
-
 2231 | Temperatura Lunar | :question: |
 2305 | Colheita de Caju | :question: |
 2391 | Progressões Aritméticas | :question: |
