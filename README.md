@@ -68,6 +68,7 @@ C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suf
 2306 | Escada Perfeita | :snake: |
 2339 | Aviões de Papel | :snake: |
 2343 | Caçadores de Mitos | :snake: |
+2391 | Progressões Aritméticas | :snake: |
 2413 | Busca na Internet | :snake: |
 2415 | Consecutivos | :snake: |
 2434 | Saldo do Vovô | :snake: |
@@ -79,6 +80,5 @@ C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suf
 3089 | Presentes de Natal | :snake: |
 2231 | Temperatura Lunar | :question: |
 2305 | Colheita de Caju | :question: |
-2391 | Progressões Aritméticas | :question: |
 2736 | Números de Avalon | :question: |
 
