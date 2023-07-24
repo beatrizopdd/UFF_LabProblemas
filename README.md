@@ -65,6 +65,7 @@ C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suf
 2188 | Macaco-prego | :snake: |
 2286 | Par ou Impar | :snake: |
 2301 | Vivo ou Morto | :snake: |
+2305 | Colheita de Caju | :snake: |
 2306 | Escada Perfeita | :snake: |
 2339 | Aviões de Papel | :snake: |
 2343 | Caçadores de Mitos | :snake: |
@@ -79,6 +80,5 @@ C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suf
 3055 | Nota Esquecida | :snake: |
 3089 | Presentes de Natal | :snake: |
 2231 | Temperatura Lunar | :question: |
-2305 | Colheita de Caju | :question: |
 2736 | Números de Avalon | :question: |
 
