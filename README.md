@@ -44,7 +44,6 @@ L3 | 2880 | Enigma | :snake: :gem:|
 --- | --- |
 Python (:snake:) | ![progress](https://progress-bar.dev/34/?scale=36&width=200&suffix=/36) |
 Ruby (:gem:) | ![progress](https://progress-bar.dev/22/?scale=36&width=200&suffix=/36) |
-C (:croissant:) | ![progress](https://progress-bar.dev/0/?scale=36&width=200&suffix=/36) |
 
 ## Extras
 
